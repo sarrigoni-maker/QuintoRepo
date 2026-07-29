@@ -1,5 +1,6 @@
 README.md
 setup.py
+QuintoRepo/__init__.py
 QuintoRepo.egg-info/PKG-INFO
 QuintoRepo.egg-info/SOURCES.txt
 QuintoRepo.egg-info/dependency_links.txt
